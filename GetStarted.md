@@ -1,7 +1,7 @@
 
 # Getting Started with JTCLab
 
-If you haven't yet imported the ```JTCLab``` library into your project, see the [README.md](https://github.com/APMonitor/JTCLab/blob/master/README.md) file for instructions.
+If you haven't yet imported the ```JTCLab``` library into your project, see the [README.md](https://github.com/CrayonProof/JTCLab/blob/master/README.md) file for instructions.
 
 With the library included in your project, you can now use the built in methods to control the Temperature Control Lab. To use these methods, create a JTCLab object. You can name it anything you want. In this case, I will name it 'myLab'.
 
