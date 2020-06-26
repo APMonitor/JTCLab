@@ -8,7 +8,7 @@ It performs the same functions as the original [Python package](https://github.c
 
 To get started with ```JTCLab```, you will need to include two Java libraries in your project. **First**:
 
-- Download the ```JTCLab```  library <a href="https://github.com/CrayonProof/JTCLab/releases/download/1.0/JTCLab.jar" download>JAR file</a>.
+- Download the ```JTCLab```  library <a href="https://github.com/APMonitor/JTCLab/releases/download/1.0/JTCLab.jar" download>JAR file</a>.
 - Download the ```jSerialComm```  library <a href="https://fazecast.github.io/jSerialComm/binaries/jSerialComm-2.6.2.jar" download>JAR file</a>.
 >JTCLab is the library that allows you to interface with the Temperature Control lab Arduino. jSerialComm is a library that allows Java to send and receive commands over your USB port.
 
