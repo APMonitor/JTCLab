@@ -169,7 +169,7 @@ public class JTCLab {
 		arduinoPort = findArduino();
 		arduinoPort.setComPortTimeouts(SerialPort.TIMEOUT_READ_SEMI_BLOCKING, 0, 0);
 		if (arduinoPort.openPort()) {
-			System.out.println("Port opened succesfully");
+			System.out.println("Port opened successfully");
 		}
 		else {
 			System.out.println("Unable to open port. Reconnect your Arduino and try again.");
@@ -181,7 +181,7 @@ public class JTCLab {
 		arduinoPort = findArduino();
 		arduinoPort.setComPortTimeouts(SerialPort.TIMEOUT_READ_SEMI_BLOCKING, 0, 0);
 		if (arduinoPort.openPort()) {
-			System.out.println("Port opened succesfully");
+			System.out.println("Port opened successfully");
 		}
 		else {
 			System.out.println("Unable to open port. Reconnect your Arduino and try again.");
